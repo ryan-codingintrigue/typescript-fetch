@@ -1,3 +1,7 @@
+> ## Deprecation Notice
+> 
+> This repository is now deprecated. All changes have been merged into the [DefinitelyTyped repository](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/whatwg-fetch). All pull requests and issues should be directed there instead!
+
 # typescript-fetch
 A TypeScript type definition for the Fetch API
 
